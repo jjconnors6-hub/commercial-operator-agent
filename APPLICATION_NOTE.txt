@@ -1,0 +1,19 @@
+Commercial Research Agent — v8.0
+
+I built this agent to compress a repeatable commercial-research workflow I use when evaluating companies, preparing for executive conversations, and developing GTM hypotheses.
+
+Input:
+- Company URL
+- Optional research objective, product/business-unit focus, or buyer focus
+
+The agent researches public customer evidence, products, competition, hiring, pricing/procurement signals, buying dynamics, commercial motion, economics, expansion, and organization. It distinguishes evidence from inference internally, pressure-tests contradictions and uneven proof, and synthesizes the work into a meeting-ready commercial brief without assuming access to internal company data.
+
+The goal is not to automate commercial judgment. It is to compress the 6–8 hours of outside-in research and synthesis that normally precede that judgment, so an operator can spend more time on the decisions and questions that matter.
+
+v8.0 is the employer-facing build: the research architecture is intentionally stable, while the interface, provenance, and export are polished for use as an internal work tool.
+
+
+v8.1 adds an embedded Elevate Healthcare example so a reviewer can see the quality of the work immediately, while preserving the ability to run a live company search from the same interface.
+
+
+v8.2 removes all visible API/setup controls for the frozen employer-facing demo.
